@@ -214,7 +214,7 @@
             <artifactId>selenium-java</artifactId>
             <version>${selenium.version}</version>
             <scope>test</scope>
-        </dependency
+	    </dependency>
 	    
 
       <dependency>
